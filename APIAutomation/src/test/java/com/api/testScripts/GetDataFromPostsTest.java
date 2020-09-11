@@ -8,7 +8,7 @@ import com.api.genericLib.BaseClass;
 
 import io.restassured.response.Response;
 
-public class GetDataFromPosts extends BaseClass {
+public class GetDataFromPostsTest extends BaseClass {
     @Test
 	public void getData() throws IOException
 	{
