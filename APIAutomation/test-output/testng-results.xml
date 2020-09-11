@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5689" started-at="2020-09-11T03:15:24Z" finished-at="2020-09-11T03:15:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5689" started-at="2020-09-11T03:15:24Z" finished-at="2020-09-11T03:15:30Z">
+      <class name="com.api.testScripts.FetchEmployeeIDTest">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:com.api.testScripts.FetchEmployeeIDTest@6a024a67]" name="configBS" is-config="true" duration-ms="1015" started-at="2020-09-11T08:45:23Z" finished-at="2020-09-11T08:45:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method status="PASS" signature="checkEmployeeId()[pri:0, instance:com.api.testScripts.FetchEmployeeIDTest@6a024a67]" name="checkEmployeeId" duration-ms="5662" started-at="2020-09-11T08:45:24Z" finished-at="2020-09-11T08:45:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkEmployeeId -->
+      </class> <!-- com.api.testScripts.FetchEmployeeIDTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
