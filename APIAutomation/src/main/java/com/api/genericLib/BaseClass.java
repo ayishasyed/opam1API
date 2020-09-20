@@ -8,10 +8,10 @@ public class BaseClass {
   public ApiConfig config = new ApiConfig();
   public RestAssuredCommonUtils raUtils = new RestAssuredCommonUtils();
  
-  @BeforeSuite
+ /* @BeforeSuite
   public void configBS()
   {
 	 baseURI = "https://restcountries.eu";
 	 basePath = "./rest/v2";
-  } 
+  } */
 }
